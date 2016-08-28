@@ -1,0 +1,4 @@
+ime,teza,visina
+Jaka,60.4,1.73
+Ana,52.3,1.66
+Luka,83.7,1.91
